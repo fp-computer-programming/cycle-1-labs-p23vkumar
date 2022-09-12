@@ -17,7 +17,7 @@ print(first_name)
 #7. Create a variable and set it equal to "your favorite hobby". Make sure the variable follows all
 #the variable naming rules.
 
-favorite_hobby = 'Hiking'
+    favorite_hobby = 'Hiking'
 #8. Create a print statement to display your variable when your code is run. 9. What happens when you run the program again?
 
-print(favorite_hobby)
+    print(favorite_hobby)
